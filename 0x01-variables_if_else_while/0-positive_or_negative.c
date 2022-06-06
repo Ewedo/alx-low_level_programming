@@ -4,8 +4,8 @@
 /* more headers goes there */
 
 /* betty style doc for function main goes there */
-/*the main function evaluates if a randomly generated number is +ve, -ve or zero*/
-int main(void)
+/*the main function evaluates if a number is +ve, -ve or zero*/
+int main(void)  /*the main function evaluates if a number is +ve, -ve or zero*/
 {
 	int n;
 
