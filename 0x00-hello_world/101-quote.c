@@ -3,7 +3,7 @@
 
 /**
   *main - Entry point
-  *Rturn: Always 1
+  *Rturn main: Always 1
   *
   */
 
