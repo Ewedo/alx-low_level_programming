@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
+
 
 /* the main function evaluates if a number is +ve, -ve or zero */
 int main(void)
