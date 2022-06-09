@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "main.h"
-/** 
+
+/**
  * main - main function entry
  *
  * Return: always returns 0
