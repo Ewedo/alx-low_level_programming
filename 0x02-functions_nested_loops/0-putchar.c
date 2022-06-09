@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include "main.h"
 
-int main(void);
+int main(void)
 {
 	char chars[] = {'_', 'p', 'u', 't', 'c', 'h', 'a', 'r'};
 
