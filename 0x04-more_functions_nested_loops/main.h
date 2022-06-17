@@ -1,3 +1,2 @@
-  1 int _putchar(char c);
-  2 void print_text();
-
+  int _putchar(char c);
+  int _isdigit(int c);
