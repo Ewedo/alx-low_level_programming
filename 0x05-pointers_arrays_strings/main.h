@@ -1,2 +1,1 @@
-int _putchar;
-void print_text();
+void reset_to_98(int *n);
