@@ -9,7 +9,8 @@
  * Description: this if/else statement delares the sign (positive
  * or negative) of a random number. It also states if the value
  * is zero.
- *
+ * 
+ * @n - an integer parameter to recieve a number for test
  * Return: 0 for success
 */
 int positive_or_negative(int n)
