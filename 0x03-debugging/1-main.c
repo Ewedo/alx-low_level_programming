@@ -15,7 +15,7 @@ int main(void)
 
         while (i < 10)
         {
-                putchar(i);/** this is undeclerd char*/
+                putchar(i);
         }
 
         printf("Infinite loop avoided! \\o/\n");
