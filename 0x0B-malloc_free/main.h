@@ -1,4 +1,5 @@
-
+char **strtow(char *str);
+char *argstostr(int ac, char **av);
 #include <unistd.h>
 #include <stdio.h>
 int _putchar(char c);
