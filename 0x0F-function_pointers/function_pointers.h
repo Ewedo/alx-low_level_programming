@@ -12,5 +12,11 @@ int (*get_op_func(char *s))(int, int);
 void print_name(char *name, void (*f)(char *));
 void print_name_as_is(char *name);
 void print_name_uppercase(char *name);
-int main(void);
+int main(int argc, char *argv[]);
+int (*get_op_func(char *s))(int, int);
+int op_mod(int a, int b);
+int op_div(int a, int b);
+int op_mul(int a, int b);
+int op_sub(int a, int b);
+int op_add(int a, int b);
 
