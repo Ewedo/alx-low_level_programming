@@ -10,4 +10,7 @@ int op_div(int a, int b);
 int op_mod(int a, int b);
 int (*get_op_func(char *s))(int, int);
 void print_name(char *name, void (*f)(char *));
+void print_name_as_is(char *name);
+void print_name_uppercase(char *name);
+int main(void);
 
