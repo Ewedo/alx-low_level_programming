@@ -1,3 +1,17 @@
+#ifndef VARIADIC_FUNCTIONS_H
+#define VARIADIC_FUNCTIONS_H
+
+/**
+ * struct variadicType - define data structure
+ * @valid: a pointer to character
+ * @f: a function pointer to function
+ */
+typedef struct validTypes
+{
+	char *valid;
+	void (*f)();
+} v_types;
+
 int main(void);
 int _putchar(char c);
 int sum_them_all(const unsigned int n, ...);
@@ -8,3 +22,5 @@ int sum_them_all(const unsigned int n, ...);
 
 
 
+
+#endif /* VARIADIC_FUNCTIONS_H */
